@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/miklosn/pubsub-publisher/pkg/publisher"
+	"github.com/miklosn/go-publisher"
 )
 
 var p *publisher.Publisher
